@@ -1,1 +1,1 @@
-requirement:  jupyter notebook
+Depends on jupyter notebook
